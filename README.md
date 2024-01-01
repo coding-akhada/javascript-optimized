@@ -6,4 +6,5 @@ Read about:
 - Throttling
 - Lazy Loading
 - Infinite Scroll
-
+- Client-side Pagination
+- Server-side Pagination
